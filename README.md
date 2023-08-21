@@ -24,7 +24,7 @@ En esta ruta se iniciará sesión en la página
 ### http://localhost:8080/register
 En esta ruta se registrarán los datos del usuario
 
-## http://localhost:8080/reset
+### http://localhost:8080/reset
 En esta ruta se cambia la contraseña
 
 ### http://localhost:8080/ResetPassword
